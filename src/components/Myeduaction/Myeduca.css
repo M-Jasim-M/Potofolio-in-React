@@ -1,0 +1,60 @@
+.edmain{
+    display: flex;
+    width: 1050px;
+    margin: auto;
+    padding-top: 50px;
+  
+}
+.edchil1{
+width: 500px;
+color: #2a1d1d85;
+}
+.school{
+    padding-top: 15px;
+    color: #2a1d1d85;
+    font-size: 25px;
+    font-weight: 600;
+}
+.web{
+    padding-top: 15px;
+    color: #2a1d1d85;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.web2{
+    padding-top: 40px;
+    font-size: 22px;
+}
+.conn{
+padding-top: 30px;
+padding-bottom: 40px;
+font-size: 19px;
+font-weight: 500;
+}
+.button{
+background-color: grey;
+width: 100px;
+padding: 6px 10px 8px 11px;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 17px;
+font-weight: 600;
+cursor: pointer;
+}
+.icon{
+    padding-left: 8px;
+    font-size: 22px;
+}
+.edchil2{
+width: 540px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.edchil2 img{
+width: 450px;
+height: 490px;
+}

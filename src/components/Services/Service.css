@@ -1,0 +1,53 @@
+.smain{
+    display: flex;
+    width: 1050px;
+    margin: auto;
+    padding-top: 50px;
+}
+.schil1{
+    width: 500px;
+    color: #2a1d1d85;
+}
+.sfront{
+    font-size: 35px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.copy{
+font-size: 25px;
+font-weight: 600;
+padding: 50px 0px 10px 20px;
+}
+.res{
+    padding: 10px 0px 10px 20px;
+}
+.amim{
+    padding: 10px 0px 10px 20px;
+}
+.inte{
+    padding: 10px 0px 10px 20px;
+}
+
+.butt{
+    background-color: grey;
+width: 100px;
+padding: 6px 10px 8px 11px;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 17px;
+font-weight: 600;
+cursor: pointer;
+margin: 20px 0px 0px 20px;
+}
+.schil2{
+    width: 540px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.schil2 img{
+    
+}

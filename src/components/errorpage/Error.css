@@ -1,0 +1,22 @@
+.emain{
+    background-color: #363676;
+}
+.im{
+   padding-top: 30px;
+}
+.im img{
+    width: 100%;
+    height: 510px;
+}
+.go{
+    background-color: #363676;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.go a{
+    text-decoration: none;
+    color: white;
+}
+
